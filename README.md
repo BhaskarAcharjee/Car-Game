@@ -12,3 +12,7 @@ The objective of the game is to prevent your car from crashing into opponents ca
 1. Move Rght - 'R' key
 2. Move Left - 'L' key
 3. Exit - 'esc' key
+## Preview
+
+https://github.com/BhaskarAcharjee/Car-Game/assets/76872572/1e50919c-dfce-463b-bc0e-25abe599ec6e
+
